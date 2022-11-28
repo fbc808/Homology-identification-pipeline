@@ -1,2 +1,2 @@
-# Pathway-classification
-A method for processing output from the Circle-Map method, to classify the pathway of origin for circular DNA.
+# Homology-identification-pipeline
+A method for processing output from the Circle-Map method, to identify homology and produce a suggested pathway of origin for circular DNA.
