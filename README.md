@@ -1,7 +1,7 @@
 # Homology-identification-pipeline
 A method for processing output from the Circle-Map method, to identify homology and produce a suggested pathway of origin for circular DNA.
 
-Running python script and blast, on Linux server, where python and blast are installed.
+### Running python script and blast, on Linux server, where python and blast are installed.
 
 To check if path is added to current directory, go to python shell/interpreter, execute;
 
